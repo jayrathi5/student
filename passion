@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+<head>
+<body>
+<p>
+<table>
+<tr>
+<th><h1>name</h1></th>
+<th><h1>Roll no.</h1></th>
+</tr>
+<tr>
+<td>jay</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Dhruv</td>
+<td>23</td>
+</tr>
+</table>
+</p>
+</body>
+</head>
+</html>
